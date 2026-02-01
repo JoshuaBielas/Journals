@@ -65,3 +65,32 @@
   - I will write tests for the contact us page.
   - I will keep working on the contact us page.
   - I will set up a kanban board for this repository
+
+
+# Meeting Notes – [2/3/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - A lot of work on the home page and customer facing page
+    - Many tests for home page
+  - **Unmerged:**
+    - Worked on formatting for different size screens
+    - Added a font to home and contact us pages
+    - Wrote more tests for home page
+    - Wrote tests for contact us page
+    - Watched a youtube video to learn about state: [Video](https://www.youtube.com/watch?v=J52I0bwAr8c)
+    - Set up a Kanban board for the project
+
+    Cummulative time of 6 hours
+
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - NA
+
+- **Things I need:**
+  - I currently do not need anything in order to continue my work
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Write more issues for things to solve for the project.
+  - Work on dark mode for the website
+  - Determine uniform styling for all pages of the application
