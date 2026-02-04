@@ -42,3 +42,22 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - I plan to begin work on the UI for my application
   - I plan to do some research on communicating with Ollama from a Swift application
+
+  # Meeting Notes – [2/5/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Home Page UI (7 hours)
+  - **Unmerged:**
+    - NA
+
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - I downloaded ollama and started exploring how to communicate with it from a Swift application
+
+- **Things I need:**
+  - I currently do not need anything in order to continue my work
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - I plan to keep working on the home page for my application
+  - I plan to spend a little bit more time looking at how to make ollama requests with my information
