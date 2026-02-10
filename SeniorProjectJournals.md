@@ -94,3 +94,26 @@
   - Write more issues for things to solve for the project.
   - Work on dark mode for the website
   - Determine uniform styling for all pages of the application
+
+
+# Meeting Notes – [2/10/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - New version of the UI for the home page on a new branch, so both options are available for our customer meeting and we can decide what aspects we want from each version.
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - Figma diagram for creating new versions of the home page UI
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - I need to attend our meeting with the customer and determine what they would like the UI to look like for their website.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Attend customer meeting
+  - Work on dark mode for the website
+  - Modify the website based on customer preferences and creating uniform styling with other team members.
+  - Rewrite tests for the home page and contact us page based on UI changes
