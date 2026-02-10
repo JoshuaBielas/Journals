@@ -103,6 +103,7 @@
     - None
   - **Unmerged:**
     - New version of the UI for the home page on a new branch, so both options are available for our customer meeting and we can decide what aspects we want from each version.
+    - I spent some time trying to learn about UI design best practices
 
 - **Work in progress since last meeting not yet on Git (include time):**
   - Figma diagram for creating new versions of the home page UI
