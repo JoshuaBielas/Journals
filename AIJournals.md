@@ -61,3 +61,24 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - I plan to keep working on the home page for my application
   - I plan to spend a little bit more time looking at how to make ollama requests with my information
+
+# Meeting Notes – [2/13/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Home Page UI Progress 
+    - Working on connecting with local Ollama using the Ollama API
+    (Total time of 7 hours)
+  - **Unmerged:**
+    - NA
+
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - NA
+
+- **Things I need:**
+  - I currently do not need anything in order to continue my work
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - I plan to keep working on the home page for my application
+  - I plan to keep working on setting up communication with LLM models using the Ollama API
