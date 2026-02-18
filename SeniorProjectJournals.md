@@ -118,3 +118,28 @@
   - Work on dark mode for the website
   - Modify the website based on customer preferences and creating uniform styling with other team members.
   - Rewrite tests for the home page and contact us page based on UI changes
+
+# Meeting Notes – [2/17/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - I attended our customer meeting to display our progress and get feedback.
+    - I made changes based on customer feedback. These changes have not been merged and are not ready for a pull request as I need to discuss them with other team members before they are merged.
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - I need to talk to other members of my team and determine how we want the new version of the UI to look.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Work on dark mode for the website
+  - Work with team members to create uniform design for the website
+  - Rewrite tests for the home page and contact us page based on UI changes
+
+- **Notes**
+  - I accidentally deleted some of my work this week, so my commit is smaller than normal
