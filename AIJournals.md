@@ -72,7 +72,6 @@
   - **Unmerged:**
     - NA
 
-
 - **Work in progress since last meeting not yet on Git (include time):**
   - NA
 
@@ -82,3 +81,26 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - I plan to keep working on the home page for my application
   - I plan to keep working on setting up communication with LLM models using the Ollama API
+
+# Meeting Notes – [2/20/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Followed a tutorial to create a calendar UI. Then modified how it appears.
+    - Set up sending actual tasks to Ollama and getting a schedule back
+    - Began setting up the page where the schedule will be displayed
+    (Total time of 6 hours)
+  - **Unmerged:**
+    - NA
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - NA
+
+- **Things I need:**
+  - I currently do not need anything in order to continue my work
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - I plan to keep working on the display of the AI generated schedule
+  - I plan to add functionality to the app's built in calendar
+  - I plan to set up the database for my application
+  - I will also test different models for scheduling
