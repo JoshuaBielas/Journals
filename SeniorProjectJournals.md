@@ -143,3 +143,24 @@
 
 - **Notes**
   - I accidentally deleted some of my work this week, so my commit is smaller than normal
+
+
+# Meeting Notes – [2/24/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - I continued making changes based on customer feedback. These changes have not been merged and are not ready for a pull request as the UI design needs to be finalized. I met with team members, and we have a plan for the finalized design. I should be able to merge that design next week.
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - I don't need anything to continue my work
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Create finalized design based on planning with team members
+  - Rewrite tests for the home page and contact us page based on UI changes
