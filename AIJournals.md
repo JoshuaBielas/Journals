@@ -104,3 +104,25 @@
   - I plan to add functionality to the app's built in calendar
   - I plan to set up the database for my application
   - I will also test different models for scheduling
+
+# Meeting Notes – [2/27/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Set up the database for my application
+    - Get items from database and delete items from database
+    - Debugged issues where items were not saving correctly
+    (Total time of 7 hours)
+  - **Unmerged:**
+    - NA
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - NA
+
+- **Things I need:**
+  - I currently do not need anything in order to continue my work
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - I plan to move the display of the AI generated schedule to its own page which is already created.
+  - I plan to add functionality to the app's built in calendar
+  - I plan to test different models to check their scheduling performance
