@@ -164,3 +164,26 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Create finalized design based on planning with team members
   - Rewrite tests for the home page and contact us page based on UI changes
+
+# Meeting Notes – [3/3/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - I implemented our new UI design based on team member conversations. It is pretty much complete, and it is in a draft pull request. I forgot there were draft pull requests. I could have had my work on one of those for the last couple weeks. 
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - I need to discuss the changes with team members to see if they are on the same page, and decide if there should be any more tweaks.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Meet with team members
+  - Make tweeks based on the meeting
+  - Make small UI changes
+  - Rewrite tests for the home page and contact us page based on UI changes
+  - Merge the pull request
