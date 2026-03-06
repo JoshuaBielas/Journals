@@ -126,3 +126,23 @@
   - I plan to move the display of the AI generated schedule to its own page which is already created.
   - I plan to add functionality to the app's built in calendar
   - I plan to test different models to check their scheduling performance
+
+
+# Meeting Notes – [3/6/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - testing new models
+    - getting LLM output to display on the schedule page
+  - **Unmerged:**
+    - NA
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - NA
+
+- **Things I need:**
+  - I need some ideas on how to write a stronger prompt that the LLM might actually listen too.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - I plan to add functionality to the app's built in calendar
+  - I plan to finalize the UI
