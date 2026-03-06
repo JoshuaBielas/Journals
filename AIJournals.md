@@ -134,6 +134,8 @@
   - **Merged:**
     - testing new models
     - getting LLM output to display on the schedule page
+    - Setting up the ScheduledItem model
+    - Implementing adding and deleting for the ScheduledItem model
   - **Unmerged:**
     - NA
 
