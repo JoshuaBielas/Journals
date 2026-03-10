@@ -187,3 +187,25 @@
   - Make small UI changes
   - Rewrite tests for the home page and contact us page based on UI changes
   - Merge the pull request
+
+# Meeting Notes – [3/10/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - The new UI design has been merged
+    - The first few reimplemented tests have been merged
+  - **Unmerged:**
+    - None
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - I need to attend our meeting with our customer and gather feedback
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Meet with customer
+  - Meet with Professor Carman
+  - Finish rewriting tests for the home page and contact us page based on UI changes
