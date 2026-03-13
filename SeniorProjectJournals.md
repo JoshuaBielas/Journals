@@ -209,3 +209,27 @@
   - Meet with customer
   - Meet with Professor Carman
   - Finish rewriting tests for the home page and contact us page based on UI changes
+
+# Meeting Notes – [3/17/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Fixed Contact page css
+    - Changes suggested by our customer following a meeting:
+      - Navbar bold and black font
+      - Basic Wash added back
+  - **Unmerged:**
+    - None
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - Meeting with our advisor to determine we are on track to graduate and discuss spring quarter features
+    - Meeting with our customer to gather feedback and discuss the future
+    - Meeting with our group to discuss asssignments for spring quarter.
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - None
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Modify the gift card page UI to prepare to implement spring quarter features
