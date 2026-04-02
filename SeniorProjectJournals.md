@@ -233,3 +233,25 @@
 
 - **Things I will do before the next meeting (or the meeting after that):**
   - Modify the gift card page UI to prepare to implement spring quarter features
+
+# Meeting Notes – [4/7/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - Allowed database access from the customer facing website
+    - Add fields for storing each type of washbook wash
+    - Allow adding and removing washes from customer's totals from website
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - I need to have a meeting with Professor Carman to discuss requirements now that we have less team members.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Starting researching Clover integration and hopefully setting it up.
+  - Hopefully start using logins once they are implemented by Andy.
