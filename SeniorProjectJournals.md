@@ -255,3 +255,24 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Starting researching Clover integration and hopefully setting it up.
   - Hopefully start using logins once they are implemented by Andy.
+
+# Meeting Notes – [4/14/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - Set up a new repository with a new Vite React app to test Clover iFrames and API
+    - Tried to figure out how the clover api works for payment processing
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 7 hours for all work
+
+- **Things I need:**
+  - I need to have a meeting with Professor Carman to discuss requirements now that we have less team members.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Continue researching Clover integration
+  - Start using logins once they are implemented by Andy
