@@ -276,3 +276,26 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Continue researching Clover integration
   - Start using logins once they are implemented by Andy
+
+# Meeting Notes – [4/21/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - Created a test app to try to learn firebase
+    - Friday meeting with Professor Carman
+    - Monday meeting with Professor Carman
+    - Considered benefits of different ways of structuring the database
+
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours and 50 minutes for all work
+
+- **Things I need:**
+  - Nothing
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Refactoring the collections stored in firebase and establishing a new data model.
