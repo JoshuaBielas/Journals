@@ -299,3 +299,23 @@
 
 - **Things I will do before the next meeting (or the meeting after that):**
   - Refactoring the collections stored in firebase and establishing a new data model.
+
+# Meeting Notes – [4/28/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - Adding new database collections for the database restructure.
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - Beginning modifying the UI to accept more fields when creating a customer.
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - Nothing
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Finish refactoring collections
+  - Hopefully add fields for the new collections to the UI
