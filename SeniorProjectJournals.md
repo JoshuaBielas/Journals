@@ -319,3 +319,25 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Finish refactoring collections
   - Hopefully add fields for the new collections to the UI
+
+# Meeting Notes – [5/5/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Firebase collections added
+    - Customer creation with new collections implemented
+  - **Unmerged:**
+    - None
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - Nothing
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Attend meeting with professor Carman
+  - Allow membership search on main page
+  - Prevent duplicate ID use for monthly-passes
