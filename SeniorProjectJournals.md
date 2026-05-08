@@ -341,3 +341,24 @@
   - Attend meeting with professor Carman
   - Allow membership search on main page
   - Prevent duplicate ID use for monthly-passes
+
+# Meeting Notes – [5/12/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - Allow logging visits
+    - Prevent monthly passes with duplicate ids from being created
+    - Cause creation with the same user information to add a monthly pass to the existing user.
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours for all work
+
+- **Things I need:**
+  - Nothing
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Work on analytics
