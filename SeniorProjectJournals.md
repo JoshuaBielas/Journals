@@ -362,3 +362,24 @@
 
 - **Things I will do before the next meeting (or the meeting after that):**
   - Work on analytics
+
+# Meeting Notes – [5/19/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - None
+  - **Unmerged:**
+    - Fixed the subscriptions analytics page
+    - Caused visits to track on the overall visits analytics page
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours and 3 minutes for all work
+
+- **Things I need:**
+  - Nothing
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Finish visits analytics page
+  - Fix Excel import
