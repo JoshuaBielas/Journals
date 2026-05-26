@@ -383,3 +383,25 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Finish visits analytics page
   - Fix Excel import
+
+# Meeting Notes – [5/26/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Last week's work
+  - **Unmerged:**
+    - Cause notes to stay when excel is reuploaded
+    - Fix Excel upload
+    - Changes suggested by customer in our meeting
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours and 5 minutes for all work
+
+- **Things I need:**
+  - I need to set up a meeting with Professor Carman to show him what we have.
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Meet with Professor Carman
+  - Make final cleanup changes
