@@ -405,3 +405,26 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Meet with Professor Carman
   - Make final cleanup changes
+
+# Meeting Notes – [6/2/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Small changes from meetings and other small fixes
+  - **Unmerged:**
+    - None
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - None
+
+  Cummulative time of 6 hours and 18 minutes for all work
+
+- **Things I need:**
+  - I need to attend a meeting with our customer
+  - Finish proofreading the poster
+  - Hand off code to the customer
+  - Attend poster presentation session
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Meet with our customer
+  - Finish the project
