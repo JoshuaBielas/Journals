@@ -428,3 +428,24 @@
 - **Things I will do before the next meeting (or the meeting after that):**
   - Meet with our customer
   - Finish the project
+
+# Meeting Notes – [6/9/2026]
+
+- **Git-visible accomplishments since last meeting (include time):**
+  - **Merged:**
+    - Many small fixes for deploying and customer requests
+  - **Unmerged:**
+    - None
+
+- **Work in progress since last meeting not yet on Git (include time):**
+  - Customer meeting
+  - Applicatioin deployed
+  - Poster session
+
+  Cummulative time of 12 hours for all work
+
+- **Things I need:**
+  - Nothing
+
+- **Things I will do before the next meeting (or the meeting after that):**
+  - Nothing. The quarter is over
